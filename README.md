@@ -6,7 +6,7 @@ Average total profit for "Portugal": 632281.405
 
 ### 2. Deque Palindrome
 **alskjfw** : is not Palindrome
-
+   
 **level**    : is palindrome
 
 **kayak**    : is palindrome
