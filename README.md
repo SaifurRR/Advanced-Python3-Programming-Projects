@@ -8,7 +8,7 @@ Average total profit for "Portugal": 632281.405
 **alskjfw** : is not Palindrome
    
 **level**    : is palindrome
-
+  
 **kayak**    : is palindrome
 
 ### 3. Hacking The Fender:
